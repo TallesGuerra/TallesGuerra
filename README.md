@@ -32,7 +32,7 @@
 
 ##
 
-🌱 I’m currently  JavaScript. <br>
+🌱 I’m currently learning JavaScript. <br>
 👯 I’m looking to collaborate on projects to gain experience  <br>
 💬 Ask me about anything, I'm always available to help. <br>
 📫 How to reach me: email or my social medias. <br>
