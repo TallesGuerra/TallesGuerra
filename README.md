@@ -32,10 +32,10 @@
 
 ##
 
-🌱 I’m currently  JavaScript.
-👯 I’m looking to collaborate on projects to gain experience
-💬 Ask me about anything, I'm always available to help.
-📫 How to reach me: email or my social medias.
+🌱 I’m currently  JavaScript. <br>
+👯 I’m looking to collaborate on projects to gain experience  <br>
+💬 Ask me about anything, I'm always available to help. <br>
+📫 How to reach me: email or my social medias. <br>
 ⚡ Fun fact: I love learning new things. 
 
 
