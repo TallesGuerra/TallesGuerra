@@ -1,14 +1,3 @@
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
 <div>  
   <h1 align="center">
    Hi there, I'm 
@@ -41,10 +30,13 @@
   <a href="mailto:talles-guerra@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
+##
 
-  ![Snake animation](https://github.com/TallesGuerra/TallesGuerra/blob/output/github-contribution-grid-snake.svg)
-  
-</div
+🌱 I’m currently  JavaScript.
+👯 I’m looking to collaborate on projects to gain experience
+💬 Ask me about anything, I'm always available to help.
+📫 How to reach me: email or my social medias.
+⚡ Fun fact: I love learning new things. 
+
 
 
