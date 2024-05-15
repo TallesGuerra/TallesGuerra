@@ -3,10 +3,10 @@
    Hi there, I'm 
     <a href="www.linkedin.com/in/talles-guerra">Talles Guerra 😃️</a>
   </h1>
-  
+
   <p align="center">
-    I am a Jr Web Developer, fascinated by technology and learning new things, always available to help the project and my collegues and to grown. 
-</div>
+    I'm a Jr Web Developer studying at Rocketseat, fascinated by technology and learning new things, always available to help the project and my collegues and to grown. 
+ </div>
 
 <div align="center">
   <a href="https://github.com/TallesGuerra">
@@ -25,16 +25,13 @@
  </div><br>
 
 <div align="center">
-  <a href="https://www.instagram.com/guerratalles/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  
+
   <a href="https://www.linkedin.com/in/talles-guerra" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   
   <a href="mailto:talles-guerra@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white">
   </a>
 </div>
 
