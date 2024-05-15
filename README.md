@@ -5,7 +5,7 @@
   </h1>
   
   <p align="center">
-    I am a Web Developer Jr, fascinated by technology and learning new things, always available to help the project and my collegues and to grown. 
+    I am a Jr Web Developer, fascinated by technology and learning new things, always available to help the project and my collegues and to grown. 
 </div>
 
 <div align="center">
