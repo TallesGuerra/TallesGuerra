@@ -3,9 +3,9 @@
    Hi there, I'm 
     <a href="www.linkedin.com/in/talles-guerra">Talles Guerra 😃️</a>
   </h1>
-
+   
   <p align="center">
-    I'm a Jr Web Developer studying at Rocketseat, fascinated by technology and learning new things, always available to help the project and my collegues and to grown. 
+    I'm a Jr Web Developer studying at Rocketseat, fascinated by technology and learning new things, always available to help the project and my collegues and to grown.
  </div>
 
 <div align="center">
