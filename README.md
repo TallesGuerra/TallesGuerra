@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tallesguerra&color=yellow" alt="Profile views" /> </p>
+
 <div>  
   <h1 align="center">
    Hi there, I'm 
