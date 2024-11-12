@@ -7,7 +7,7 @@
   </h1>
    
   <p align="center">  
-   I am a Web Developer currently studying at Rocketseat. I am curious and constantly seeking improvements, facioned for technology and a passion for learning new things. I am always available to support projects and assist my colleagues, and I am committed to personal and professional growth.
+   I am a Web Developer currently studying at Rocketseat. I am curious and constantly seeking improvements, fascinated  for technology and a passion for learning new things. I am always available to support projects and assist my colleagues, and I am committed to personal and professional growth.
  </div>
 
 <div align="center">
