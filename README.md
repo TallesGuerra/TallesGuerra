@@ -6,8 +6,8 @@
     <a href="www.linkedin.com/in/talles-guerra">Talles Guerra 😃️</a>
   </h1>
    
-  <p align="center">
-    I'm a Jr Web Developer studying at Rocketseat, fascinated by technology and learning new things, always available to help the project and my collegues and to grown.
+  <p align="center">  
+    I am a Web Developer currently studying at Rocketseat. I am curious and constantly seeking improvements, with a deep fascination for technology and a     passion for learning new things. I am always available to support projects and assist my colleagues, and I am committed to personal and professional growth.
  </div>
 
 <div align="center">
