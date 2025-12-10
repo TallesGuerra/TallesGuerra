@@ -11,12 +11,10 @@
  </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TallesGuerra&theme=dracula&no-frame=true&row=1"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TallesGuerra&theme=dracula"/>
-
-  
-
+  <a href="https://github.com/TallesGuerra">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TallesGuerra&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true&cache_seconds=86400"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TallesGuerra&theme=dracula&hide_border=false&layout=compact&cache_seconds=86400"/>
+  </a>
 </div>
 
 <div align="center" valign="top"><br>
