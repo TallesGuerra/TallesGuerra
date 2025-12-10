@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/TallesGuerra">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TallesGuerra&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TallesGuerra&theme=dracula&hide_border=false&&layout=compact"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TallesGuerra&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TallesGuerra&theme=dracula&hide_border=false&layout=compact"/>
   </a>
 </div>
 
@@ -53,7 +53,7 @@
 
 ##
 
-🌱 I’m currently learning JavaScript. <br>
+🌱 I’m currently learning Kotlin. <br>
 👯 I’m looking to collaborate on projects to gain experience  <br>
 💬 Ask me about anything, I'm always available to help. <br>
 📫 How to reach me: email or my social medias. <br>
