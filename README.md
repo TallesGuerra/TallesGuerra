@@ -24,7 +24,11 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="git" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
+  <img align="center" alt="kotlin" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+
+  <img align="center" alt="android" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
  </div><br>
 
 <div align="center">
