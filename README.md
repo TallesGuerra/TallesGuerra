@@ -7,10 +7,8 @@
   <p align="center">  
    I am a Web Developer currently studying at Rocketseat. I am curious and constantly seeking improvements, fascinated  for technology and a passion for learning new things. I am always available to support projects and assist my colleagues, and I am committed to personal and professional growth.
  </div>
-<div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TallesGuerra&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TallesGuerra&theme=dracula&hide_border=false&layout=compact"/>
-</div>
+
+
 <div align="center" valign="top"><br>
     <img align="center" alt="kotlin" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="android" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
