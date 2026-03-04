@@ -5,7 +5,18 @@
     <a href="www.linkedin.com/in/talles-guerra">Talles Guerra 😃️</a>
   </h1>
   <p align="center">  
-   I am a Web Developer currently studying at Rocketseat. I am curious and constantly seeking improvements, fascinated  for technology and a passion for learning new things. I am always available to support projects and assist my colleagues, and I am committed to personal and professional growth.
+   𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐀𝐧𝐝𝐫𝐨𝐢𝐝 (𝐊𝐨𝐭𝐥𝐢𝐧)
+
+With a solid foundation in 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 (𝐑𝐞𝐚𝐜𝐭/𝐍𝐨𝐝𝐞.𝐣𝐬), I am currently specializing in the 𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐄𝐜𝐨𝐬𝐲𝐬𝐭𝐞𝐦. My transition is driven by a passion for mobile user experiences and high-performance native applications.
+
+I have been building mobile solutions using  𝐊𝐨𝐭𝐥𝐢𝐧 and 𝐉𝐞𝐭𝐩𝐚𝐜𝐤 𝐂𝐨𝐦𝐩𝐨𝐬𝐞, applying modern architectural patterns like 𝐌𝐕𝐕𝐌 and 𝐂𝐥𝐞𝐚𝐧 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞. My previous experience as a Full-Stack developer allows me to have a holistic view of the development cycle, from building robust 𝐑𝐄𝐒𝐓 𝐀𝐏𝐈𝐬 to integrating them into seamless mobile interfaces.
+
+𝐌𝐚𝐢𝐧 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤:
+• 𝐌𝐨𝐛𝐢𝐥𝐞: Kotlin, Android SDK, Jetpack Compose, Coroutines.
+• 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 & 𝐓𝐨𝐨𝐥𝐬: MVVM, Clean Architecture, Retrofit.
+• 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐁𝐚𝐜𝐤𝐠𝐫𝐨𝐮𝐧𝐝: JavaScript/TypeScript, React, Node.js.
+
+I am looking for my first opportunity as an 𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 where I can contribute my logical thinking and full-stack background to build scalable and maintainable mobile apps.
  </div>
 
 
