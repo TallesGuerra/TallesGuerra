@@ -59,20 +59,29 @@ Currently looking for my first opportunity as an **Android Developer** where I c
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tallesguerra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tallesguerra&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+<div align="center">  
+  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tallesguerra&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+
+   <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=tallesguerra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
 </div>
 
----
+<br/>
 
-### 🐍 Contribution Snake
+<div align="center">
+  <img background="black" src="https://ghchart.rshah.org/2EA44F/tallesguerra" bg_color=0d1117 alt="Contribution Chart"/>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TallesGuerra/TallesGuerra/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TallesGuerra/TallesGuerra/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/TallesGuerra/TallesGuerra/output/github-contribution-grid-snake.svg"/>
-</picture>
+
+
+<!-- <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tallesguerra&theme=onedark&no-frame=true&row=1&column=6"/>
+</div> -->
+
+<!-- <br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tallesguerra&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div> -->
 
 ---
 
