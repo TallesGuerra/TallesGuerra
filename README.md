@@ -21,6 +21,22 @@ Currently looking for my first opportunity as an **Android Developer** where I c
 
 ---
 
+### 🌐 Portfolio
+
+<div align="center">
+  <a href="https://tallesguerra.github.io/pagina-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Portfólio%20→-e8440a?style=for-the-badge&logoColor=white" alt="Ver Portfólio"/>
+  </a>
+
+  <br/><br/>
+
+  <a href="https://tallesguerra.github.io/pagina-portfolio" target="_blank">
+    <img src="https://raw.githubusercontent.com/TallesGuerra/pagina-portfolio/main/public/screenshot.jpg" alt="Portfolio Preview" width="650"/>
+  </a>
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 
 **Mobile**
@@ -50,38 +66,25 @@ Currently looking for my first opportunity as an **Android Developer** where I c
 
 | Project | Description | Stack |
 |---|---|---|
-| [💰 Pocket Finances](https://github.com/TallesGuerra/FinancasDeBolso) | Personal finance app with income/expense tracking and real-time balance | Kotlin, Jetpack Compose |
-| [✅ To Do List](https://github.com/TallesGuerra/ListaDeTarefas) | Task management app with modular architecture and state management | Kotlin, Jetpack Compose |
-| [🔍 GitHub Search](https://github.com/TallesGuerra/desafio-github-search) | App that fetches public GitHub repos via REST API | Kotlin, Retrofit |
-| [⚡ Electric Car App](https://github.com/TallesGuerra/EletricCar_App) | Electric vehicle browser built during Cognizant Bootcamp | Kotlin, Jetpack Compose |
+| [💰 Pocket Finances](https://github.com/TallesGuerra/FinancasDeBolso) | Personal finance app with income/expense tracking and real-time balance | Kotlin · Jetpack Compose · MVVM |
+| [📆 TaskHabit](https://github.com/TallesGuerra/TaskHabit) | Habit tracker with streak tracking, categories and daily auto-reset via WorkManager | Kotlin · Compose · Hilt · Room |
+| [🔍 GitHub Search](https://github.com/TallesGuerra/desafio-github-search) | App that fetches public GitHub repos via REST API | Kotlin · Retrofit |
+| [🌐 Portfolio](https://github.com/TallesGuerra/pagina-portfolio) | Personal portfolio website with bilingual support · [Live →](https://tallesguerra.github.io/pagina-portfolio) | React · Vite · CSS |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">  
-  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tallesguerra&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-
-   <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=tallesguerra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tallesguerra&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tallesguerra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img background="black" src="https://ghchart.rshah.org/2EA44F/tallesguerra" bg_color=0d1117 alt="Contribution Chart"/>
+  <img src="https://ghchart.rshah.org/2EA44F/tallesguerra" alt="Contribution Chart"/>
 </div>
-
-
-
-<!-- <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tallesguerra&theme=onedark&no-frame=true&row=1&column=6"/>
-</div> -->
-
-<!-- <br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tallesguerra&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div> -->
 
 ---
 
